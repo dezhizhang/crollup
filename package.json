@@ -1,0 +1,23 @@
+{
+  "name": "crollup",
+  "version": "1.0.0",
+  "description": "crollup",
+  "main": "debugger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezhizhang/crollup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezhizhang/crollup/issues"
+  },
+  "homepage": "https://github.com/dezhizhang/crollup#readme",
+  "dependencies": {
+    "acorn": "^8.7.1"
+  }
+}
